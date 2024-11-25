@@ -1,5 +1,12 @@
 # Senderos Seguros
 
+Senderos Seguros es una aplicación para guiar al usuario hacia un recorrido agradable y seguro como también optimizar su tiempo. 
+Los principales usuarios son personas con discapacidades motrices y visuales, así como sus acompañantes.
+Utilizamos:
+Programación orientada a objetos con JAVA
+Android Studio
+Google Maps - Volley
+Bases de datos: MySQL y SQLite
 
 ![image](https://github.com/user-attachments/assets/10021dff-f126-4dc8-a460-2dc62e5f9159)
 
